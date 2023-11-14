@@ -202,6 +202,9 @@ Or it can simply be added to your html, using [jsDeliver](https://www.jsdelivr.c
 > Note: starting from the 10.0.0 version, the debug plugin is no longer provided as part of the melonJS library release, and has been moved to the official [boilerplate](https://github.com/melonjs/es6-boilerplate)
 
 Contributing
+
+
+nissar is contrubating
 -------------------------------------------------------------------------------
 For most users, all you probably want is to use melonJS, and all you need then is just to download the latest built [release](https://github.com/melonjs/melonJS#download-melonjs) to get started.
 
